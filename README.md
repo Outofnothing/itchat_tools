@@ -1,4 +1,6 @@
 使用[itchat][link]完成自动扫描U盘中的文档文件并发送给文件助手。
+
+__注意:不应当用于违法行为！！！尊重知识产权__
 [link]:https://itchat.readthedocs.io/zh/latest/
 ## requirement
 ### for developers
@@ -12,4 +14,4 @@
 nothing
 
 ## usage
-扫码登录，发送盘符给文件助手
+扫码登录，发送U盘所在盘符给文件助手
